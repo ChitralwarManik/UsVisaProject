@@ -1,0 +1,1 @@
+[ 2024-06-29 20:52:55,645 ] root - INFO - unsupported operand type(s) for /: 'int' and 'str'
